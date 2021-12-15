@@ -1,0 +1,9 @@
+.editItem{
+    display: flex;
+    align-content: space-between;
+    justify-content: space-between;
+    align-items: center;
+}
+img{
+    margin-right: 2rem;
+}
